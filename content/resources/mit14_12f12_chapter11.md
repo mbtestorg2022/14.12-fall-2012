@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding imperfect competition.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-12-economic-applications-of-game-theory-fall-2012/114453d67d6fd1a1d72ecedb29bd88ef_MIT14_12F12_chapter11.pdf
 file_type: application/pdf
+parent_uid: 1d5cdcdc-df20-f36d-bd2e-c608c7db237e
 resourcetype: Document
 title: Session 11 Lecture Notes
 uid: 114453d6-7d6f-d1a1-d72e-cedb29bd88ef

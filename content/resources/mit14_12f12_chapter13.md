@@ -4,6 +4,7 @@ description: 'This resource contains information regarding application: implicit
   cartels.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-12-economic-applications-of-game-theory-fall-2012/35e1783c86a01e91d6d0463121260c8d_MIT14_12F12_chapter13.pdf
 file_type: application/pdf
+parent_uid: 1d5cdcdc-df20-f36d-bd2e-c608c7db237e
 resourcetype: Document
 title: Session 13 Lecture Notes
 uid: 35e1783c-86a0-1e91-d6d0-463121260c8d

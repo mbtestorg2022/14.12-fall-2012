@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding dominance.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-12-economic-applications-of-game-theory-fall-2012/0136e76dcd45a6f1d7b386c563452ff0_MIT14_12F12_chapter4.pdf
 file_type: application/pdf
+parent_uid: 1d5cdcdc-df20-f36d-bd2e-c608c7db237e
 resourcetype: Document
 title: Session 4 Lecture Notes
 uid: 0136e76d-cd45-a6f1-d7b3-86c563452ff0
